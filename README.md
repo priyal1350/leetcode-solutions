@@ -45,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/priyal1350/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/priyal1350/leetcode-solutions/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/priyal1350/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
