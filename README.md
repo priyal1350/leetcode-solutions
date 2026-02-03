@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/priyal1350/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/priyal1350/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/priyal1350/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyal1350/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/priyal1350/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/priyal1350/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/priyal1350/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyal1350/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/priyal1350/leetcode-solutions/tree/master/0796-rotate-string) |
