@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/priyal1350/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyal1350/leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/priyal1350/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
