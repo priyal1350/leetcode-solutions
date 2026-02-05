@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/priyal1350/leetcode-solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/priyal1350/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyal1350/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyal1350/leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/priyal1350/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyal1350/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/priyal1350/leetcode-solutions/tree/master/0796-rotate-string) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyal1350/leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## String Matching
 |  |
 | ------- |
@@ -65,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/priyal1350/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyal1350/leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
