@@ -2,7 +2,7 @@ class Solution {
     public String longestCommonPrefix(String[] strs) {
         StringBuilder result=new StringBuilder();
 
-        Arrays.sort(strs);
+        Arrays.sort(strs); //o(nlogn) sc o(1)
 
         char[]first = strs[0].toCharArray();
         char[]last =strs[strs.length-1].toCharArray();
@@ -15,3 +15,4 @@ class Solution {
         return result.toString();
     }
 }
+//by sorting you compare only first and last word
