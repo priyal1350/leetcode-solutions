@@ -1,14 +1,21 @@
 class Solution {
     public String reverseWords(String s) {
-        s=s.trim();
-        String []words=s.split("\\s+");
-        StringBuilder sb=new StringBuilder();
-        for(int i=words.length-1;i>=0;i--){
-            sb.append(words[i]);
-            if(i>0){
-                sb.append(" ");
-            }
+        s = s.trim(); // remove extra spaces
+        
+        String[] words = s.split("\\s+"); // split by one or more spaces
+        
+        int left = 0, right = words.length - 1;
+
+        // reverse the array of words
+        while (left < right) {
+            String temp = words[left];
+            words[left] = words[right];
+            words[right] = temp;
+
+            left++;
+            right--;
         }
-        return sb.toString();
+
+        return String.join(" ", words);
     }
 }
