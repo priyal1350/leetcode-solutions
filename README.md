@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/priyal1350/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyal1350/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/priyal1350/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/priyal1350/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyal1350/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/priyal1350/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/priyal1350/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/priyal1350/leetcode-solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/priyal1350/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/priyal1350/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/priyal1350/leetcode-solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/priyal1350/leetcode-solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/priyal1350/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/priyal1350/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyal1350/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/priyal1350/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyal1350/leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -82,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyal1350/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/priyal1350/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/priyal1350/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
