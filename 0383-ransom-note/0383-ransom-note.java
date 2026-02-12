@@ -1,23 +1,23 @@
-
-
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
 
-        HashMap<Character, Integer> map = new HashMap<>();
+        // Array to store frequency of characters (a-z)
+        int[] charCount = new int[26];
 
-        // Count characters from magazine
+        // Count frequency of each character in magazine
         for (char c : magazine.toCharArray()) {
-            map.put(c, map.getOrDefault(c, 0) + 1);
+            charCount[c - 'a']++;
         }
 
-        // Check ransomNote characters
+        // Check if ransomNote can be formed
         for (char c : ransomNote.toCharArray()) {
-            if (!map.containsKey(c) || map.get(c) == 0) {
-                return false;
+            if (charCount[c - 'a'] == 0) {
+                return false;   // character not available
             }
-            map.put(c, map.get(c) - 1);
+            charCount[c - 'a']--; // use one character
         }
 
+        // If all characters are available
         return true;
     }
 }
