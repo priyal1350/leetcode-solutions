@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyal1350/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/priyal1350/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/priyal1350/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1903-largest-odd-number-in-string](https://github.com/priyal1350/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/priyal1350/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/priyal1350/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyal1350/leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1903-largest-odd-number-in-string](https://github.com/priyal1350/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/priyal1350/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/priyal1350/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
