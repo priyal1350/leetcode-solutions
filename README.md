@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/priyal1350/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/priyal1350/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyal1350/leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/priyal1350/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/priyal1350/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/priyal1350/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyal1350/leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/priyal1350/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/priyal1350/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
