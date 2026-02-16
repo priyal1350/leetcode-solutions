@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/priyal1350/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/priyal1350/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/priyal1350/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyal1350/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyal1350/leetcode-solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/priyal1350/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/priyal1350/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/priyal1350/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/priyal1350/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/priyal1350/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyal1350/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
