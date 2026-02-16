@@ -6,10 +6,11 @@ class Solution {
             if(s.charAt(i)=='('){
                 curropen++;
             }
-            max=Math.max(max,curropen);
-            if(s.charAt(i)==')'){
+            else if(s.charAt(i)==')'){
                 curropen--;
             }
+            max=Math.max(max,curropen);
+            
         }
         return max;
     }
