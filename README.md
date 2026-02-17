@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/priyal1350/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/priyal1350/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyal1350/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/priyal1350/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/priyal1350/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/priyal1350/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyal1350/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/priyal1350/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/priyal1350/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/priyal1350/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/priyal1350/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
