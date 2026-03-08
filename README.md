@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/priyal1350/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/priyal1350/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/priyal1350/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/priyal1350/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/priyal1350/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyal1350/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/priyal1350/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/priyal1350/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/priyal1350/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/priyal1350/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priyal1350/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priyal1350/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/priyal1350/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/priyal1350/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/priyal1350/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/priyal1350/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/priyal1350/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priyal1350/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priyal1350/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/priyal1350/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
