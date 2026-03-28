@@ -3,11 +3,10 @@ class Solution {
       s=s.trim();
       int j=s.length()-1;
       int count=0;
-      while(s.charAt(j)!=' '){
+      while(j>=0 && s.charAt(j)!=' '){
          count++;
          j--;
       }
       return count;  
-    }
- return -1;   
+    }   
 }
